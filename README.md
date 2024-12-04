@@ -1,6 +1,10 @@
 # RitiRiwaaz
 
-Designed and developed a dynamic website named **Ritiriwaaz** for a client, showcasing their portfolio of previous work. The website features an intuitive layout and includes a **'Contact Us'** form to streamline shoot inquiries, ensuring a seamless and engaging experience for visitors.
+Designed and developed a dynamic website named **RitiRiwaaz** for a client, showcasing their portfolio of previous work. The website features an intuitive layout and includes a **'Contact Us'** form to streamline shoot inquiries, ensuring a seamless and engaging experience for visitors.
+
+Click the link for Instagram of RitiRiwaaz
+https://shorturl.at/nXZv6
+
 Below are some snippets of website:
 
 ![Screenshot from 2024-12-04 14-25-52](https://github.com/user-attachments/assets/9536cffe-6b46-416b-9561-eb2c7f721ace)
